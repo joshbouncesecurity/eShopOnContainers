@@ -71,20 +71,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.Shopping.HttpAggregator
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ordering.SignalrHub", "Services\Ordering\Ordering.SignalrHub\Ordering.SignalrHub.csproj", "{E1D2B260-4E7F-4A88-BC13-9910F7C44623}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basket.UnitTests", "Services\Basket\Basket.UnitTests\Basket.UnitTests.csproj", "{9D9CE4E4-1DD0-4961-861F-219731DE06CE}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.UnitTests", "Services\Catalog\Catalog.UnitTests\Catalog.UnitTests.csproj", "{791961C7-3F3E-434E-B2BA-B4D6B5E222B0}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basket.FunctionalTests", "Services\Basket\Basket.FunctionalTests\Basket.FunctionalTests.csproj", "{3F6202D0-2842-4C2F-98E1-9462709EAFBE}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ordering.UnitTests", "Services\Ordering\Ordering.UnitTests\Ordering.UnitTests.csproj", "{B1182FD9-C245-4018-8412-C66F290C7F4C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.FunctionalTests", "Services\Catalog\Catalog.FunctionalTests\Catalog.FunctionalTests.csproj", "{38107691-A437-461D-A85C-ACD3AC7ACFAB}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ordering.FunctionalTests", "Services\Ordering\Ordering.FunctionalTests\Ordering.FunctionalTests.csproj", "{DA7D3E03-D0B6-4591-8143-779D3E9F3F30}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application.FunctionalTests", "Tests\Services\Application.FunctionalTests\Application.FunctionalTests.csproj", "{639BB197-D112-47A7-A44A-471DDB0FA1AE}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{2751AC5C-D148-4D7A-AE8F-149B47C9A82D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{5FB21302-3973-4992-962A-6F87F5EC99FD}"
